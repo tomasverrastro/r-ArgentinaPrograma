@@ -1,0 +1,60 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(39, 39, 39);
+    color: white;
+}
+
+header {
+    margin-top: 5rem;
+    margin-left: 47rem;
+    font-size:x-large;
+}
+
+#agregar {
+    margin-left: 54rem;
+    margin-top: 1rem;
+    font-size: large;
+    background-color: rgb(172, 255, 176);
+}
+
+#quitar {
+    font-size: large;
+    background-color: rgb(255, 162, 162);
+}
+
+form {
+    margin-left: 49rem;
+    margin-top: 2rem;
+}
+
+.input-salario{
+    background-color: rgb(255, 254, 195);
+}
+#calcular {
+    font-size: large;
+    margin-top: 2rem;
+    margin-left: 57rem;
+    background-color: rgb(131, 199, 255);
+}
+
+#mayor-salario-anual {
+    color:rgb(172, 255, 176);
+    margin-top: 2rem;
+}
+
+#menor-salario-anual {
+    color: rgb(255, 162, 162);
+}
+
+#salario-anual-promedio {
+    color: rgb(131, 199, 255);
+}
+
+#salario-mensual-promedio {
+    color: rgb(131, 199, 255);
+}
+
+div {
+    margin-left: 50rem;
+}
+
